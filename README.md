@@ -4,9 +4,9 @@
 
 [About](#about) ◈ [Features](#features) ◈ [Installation](#installation) ◈ [How to use](#how-to-use) ◈ [How is typing speed calculated?](#how-is-typing-speed-calculated)
 
-## About
-
 <img src="display/sample-error.png" alt="screenshot of typing game" width=400/>
+
+## About
 
 > [!NOTE]  
 > This project was made for a school assignment. It is no longer maintained.
@@ -37,9 +37,13 @@ TypeThing is a typing speed test with 2 modes. It runs locally so you can practi
 ## Features
 
 - **Timer Mode:** Type as many words as you can in 30 or 60 seconds
+
   <img src="display/sample-timer.png" alt="screenshot of timer mode" width=300/>
+
 - **Stopwatch Mode:** Type 25, 50, or 75 words as fast as possible
+
   <img src="display/sample-stopwatch.png" alt="screenshot of stopwatch mode" width=300/>
+
 - Stores high score
 - Replay the game you just finished (with the same words)
 
