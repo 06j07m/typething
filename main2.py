@@ -18,9 +18,9 @@ mixer.init()
 
 
 #global colours
-BG_CLR = (47, 72, 88)
-ACCENT_CLR = (212, 122, 12)
-HIGHLIGHT_CLR = (250, 176, 87)
+BG_CLR = (49, 77, 74)
+ACCENT_CLR = (70, 145, 138)
+HIGHLIGHT_CLR = (95, 196, 187)
 WHITE = (231, 247, 235)
 RED = (246, 8, 4)
 
