@@ -2,7 +2,7 @@
 
 # TypeThing
 
-[About](#about) ◈ [Features](#features) ◈ [Installation](#installation) ◈ [How to use](#how-to-use) ◈ [How is typing speed calculated?](#how-is-typing-speed-calculated)
+[About](#about) ◈ [Installation](#installation) ◈ [How to use](#how-to-use) ◈ [Features](#features) ◈ [How is typing speed calculated?](#how-is-typing-speed-calculated)
 
 <img src="display/sample-error.png" alt="screenshot of typing game" width=400/>
 
